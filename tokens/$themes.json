@@ -1,5 +1,24 @@
 [
   {
+    "id": "00fdf1d60d6cb62b4af5f681fba18f68413c5c7b",
+    "name": "MollyMaid - Light",
+    "selectedTokenSets": {
+      "01_Core / Shared": "enabled",
+      "01_Core / Neighborly": "disabled",
+      "01_Core / GroundsGuys": "disabled",
+      "01_Core / MollyMaid": "enabled",
+      "02_Components/Button": "disabled",
+      "03_Semantic/headless": "enabled",
+      "Neighborly/01_Light": "disabled",
+      "Neighborly/02_Dark": "disabled",
+      "GroundsGuys/01_Light": "disabled",
+      "GroundsGuys/02_Dark": "disabled",
+      "MollyMaid/01_Light": "enabled",
+      "MollyMaid/02_Dark": "disabled"
+    },
+    "$figmaStyleReferences": {}
+  },
+  {
     "id": "d34ec6e320b3b1221e473939b7481df8bf0c119b",
     "name": "Neighborly - Light ",
     "selectedTokenSets": {
@@ -7,30 +26,11 @@
       "01_Core / GroundsGuys": "disabled",
       "01_Core / MollyMaid": "disabled",
       "01_Core / Shared": "enabled",
-      "03_Semantic/headless": "disabled",
-      "02_Components/Button": "enabled",
+      "03_Semantic/headless": "enabled",
+      "02_Components/Button": "disabled",
       "Neighborly/01_Light": "enabled",
       "MollyMaid/01_Light": "disabled",
       "Neighborly/02_Dark": "disabled",
-      "GroundsGuys/01_Light": "disabled",
-      "GroundsGuys/02_Dark": "disabled",
-      "MollyMaid/02_Dark": "disabled"
-    },
-    "$figmaStyleReferences": {}
-  },
-  {
-    "id": "9e187a7fc7f8fee79159ba4a19f4b3ecc129ecde",
-    "name": "Neighborly - Dark",
-    "selectedTokenSets": {
-      "01_Core / Neighborly": "enabled",
-      "01_Core / GroundsGuys": "disabled",
-      "01_Core / MollyMaid": "disabled",
-      "01_Core / Shared": "enabled",
-      "03_Semantic/headless": "disabled",
-      "02_Components/Button": "enabled",
-      "Neighborly/01_Light": "enabled",
-      "MollyMaid/01_Light": "disabled",
-      "Neighborly/02_Dark": "enabled",
       "GroundsGuys/01_Light": "disabled",
       "GroundsGuys/02_Dark": "disabled",
       "MollyMaid/02_Dark": "disabled"
@@ -42,11 +42,11 @@
     "name": "GroundsGuys - Light",
     "selectedTokenSets": {
       "01_Core / Shared": "enabled",
-      "01_Core / Neighborly": "enabled",
-      "01_Core / GroundsGuys": "disabled",
+      "01_Core / Neighborly": "disabled",
+      "01_Core / GroundsGuys": "enabled",
       "01_Core / MollyMaid": "disabled",
-      "02_Components/Button": "enabled",
-      "03_Semantic/headless": "disabled",
+      "02_Components/Button": "disabled",
+      "03_Semantic/headless": "enabled",
       "Neighborly/01_Light": "disabled",
       "Neighborly/02_Dark": "disabled",
       "GroundsGuys/01_Light": "enabled",

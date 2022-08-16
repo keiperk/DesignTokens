@@ -72,7 +72,7 @@
     },
     "cta": {
       "default": {
-        "value": "{color.sky.500}",
+        "value": "{color.pink.900}",
         "type": "color"
       },
       "emphasised": {
@@ -244,6 +244,54 @@
       "on-success": {
         "value": "{color.neutrals.white}",
         "type": "color"
+      }
+    },
+    "actions": {
+      "cta": {
+        "default": {
+          "background-color": {
+            "value": "{semantic.cta.default}",
+            "type": "color"
+          },
+          "text-color": {
+            "value": "{color.neutral.white}",
+            "type": "color"
+          },
+          "icon-color": {
+            "value": "{color.neutral.white}",
+            "type": "color"
+          },
+          "border-color": {
+            "value": "{semantic.cta.default}",
+            "type": "color"
+          }
+        }
+      },
+      "border-radius": {
+        "value": "8",
+        "type": "borderRadius"
+      },
+      "border-width": {
+        "value": "1",
+        "type": "borderWidth"
+      },
+      "xl": {
+        "padding-left": {
+          "value": "20",
+          "type": "spacing"
+        },
+        "padding-right": {
+          "value": "20",
+          "type": "spacing"
+        },
+        "padding-top": {
+          "value": "12",
+          "type": "spacing"
+        },
+        "padding-bottom": {
+          "value": "12",
+          "type": "spacing"
+        }
       }
     }
   }

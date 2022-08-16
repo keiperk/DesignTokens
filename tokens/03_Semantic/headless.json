@@ -265,6 +265,24 @@
             "value": "{semantic.cta.default}",
             "type": "color"
           }
+        },
+        "hover": {
+          "background-color": {
+            "value": "#f2ff00",
+            "type": "color"
+          }
+        },
+        "active": {
+          "background-color": {
+            "value": "#f8ff07",
+            "type": "color"
+          }
+        },
+        "focus": {
+          "background-color": {
+            "value": "#fff800",
+            "type": "color"
+          }
         }
       },
       "border-radius": {

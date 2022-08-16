@@ -7,10 +7,7 @@
     "02_Components/Button",
     "03_Semantic/headless",
     "Neighborly/01_Light",
-    "Neighborly/02_Dark",
     "GroundsGuys/01_Light",
-    "GroundsGuys/02_Dark",
-    "MollyMaid/01_Light",
-    "MollyMaid/02_Dark"
+    "MollyMaid/01_Light"
   ]
 }

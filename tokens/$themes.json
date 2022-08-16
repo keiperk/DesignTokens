@@ -1,7 +1,7 @@
 [
   {
     "id": "00fdf1d60d6cb62b4af5f681fba18f68413c5c7b",
-    "name": "MollyMaid - Light",
+    "name": "MollyMaid",
     "selectedTokenSets": {
       "01_Core / Shared": "enabled",
       "01_Core / Neighborly": "disabled",
@@ -10,17 +10,30 @@
       "02_Components/Button": "disabled",
       "03_Semantic/headless": "enabled",
       "Neighborly/01_Light": "disabled",
-      "Neighborly/02_Dark": "disabled",
       "GroundsGuys/01_Light": "disabled",
-      "GroundsGuys/02_Dark": "disabled",
-      "MollyMaid/01_Light": "enabled",
-      "MollyMaid/02_Dark": "disabled"
+      "MollyMaid/01_Light": "enabled"
+    },
+    "$figmaStyleReferences": {}
+  },
+  {
+    "id": "d9ce199c7fce8f461f581a5197acb88cd8b6e269",
+    "name": "GroundsGuys",
+    "selectedTokenSets": {
+      "01_Core / Shared": "enabled",
+      "01_Core / Neighborly": "disabled",
+      "01_Core / GroundsGuys": "enabled",
+      "01_Core / MollyMaid": "disabled",
+      "02_Components/Button": "disabled",
+      "03_Semantic/headless": "enabled",
+      "Neighborly/01_Light": "disabled",
+      "GroundsGuys/01_Light": "enabled",
+      "MollyMaid/01_Light": "disabled"
     },
     "$figmaStyleReferences": {}
   },
   {
     "id": "d34ec6e320b3b1221e473939b7481df8bf0c119b",
-    "name": "Neighborly - Light ",
+    "name": "Neighborly",
     "selectedTokenSets": {
       "01_Core / Neighborly": "enabled",
       "01_Core / GroundsGuys": "disabled",
@@ -30,29 +43,7 @@
       "02_Components/Button": "disabled",
       "Neighborly/01_Light": "enabled",
       "MollyMaid/01_Light": "disabled",
-      "Neighborly/02_Dark": "disabled",
-      "GroundsGuys/01_Light": "disabled",
-      "GroundsGuys/02_Dark": "disabled",
-      "MollyMaid/02_Dark": "disabled"
-    },
-    "$figmaStyleReferences": {}
-  },
-  {
-    "id": "d9ce199c7fce8f461f581a5197acb88cd8b6e269",
-    "name": "GroundsGuys - Light",
-    "selectedTokenSets": {
-      "01_Core / Shared": "enabled",
-      "01_Core / Neighborly": "disabled",
-      "01_Core / GroundsGuys": "enabled",
-      "01_Core / MollyMaid": "disabled",
-      "02_Components/Button": "disabled",
-      "03_Semantic/headless": "enabled",
-      "Neighborly/01_Light": "disabled",
-      "Neighborly/02_Dark": "disabled",
-      "GroundsGuys/01_Light": "enabled",
-      "GroundsGuys/02_Dark": "disabled",
-      "MollyMaid/01_Light": "disabled",
-      "MollyMaid/02_Dark": "disabled"
+      "GroundsGuys/01_Light": "disabled"
     },
     "$figmaStyleReferences": {}
   }

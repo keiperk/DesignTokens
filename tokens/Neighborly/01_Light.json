@@ -16,7 +16,7 @@
         "type": "color"
       },
       "default": {
-        "value": "#000",
+        "value": "{color.blue.700}",
         "type": "color"
       }
     },

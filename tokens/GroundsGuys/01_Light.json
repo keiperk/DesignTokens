@@ -1,0 +1,24 @@
+{
+  "semantic": {
+    "cta": {
+      "default": {
+        "value": "{color.red.500}",
+        "type": "color"
+      },
+      "emphasized": {
+        "value": "{color.blue.300}",
+        "type": "color"
+      },
+      "muted": {
+        "value": "{color.blue.300}",
+        "type": "color"
+      }
+    },
+    "warning": {
+      "default": {
+        "value": "{color.yellow.50}",
+        "type": "color"
+      }
+    }
+  }
+}

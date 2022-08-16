@@ -1,0 +1,59 @@
+[
+  {
+    "id": "d34ec6e320b3b1221e473939b7481df8bf0c119b",
+    "name": "Neighborly - Light ",
+    "selectedTokenSets": {
+      "01_Core / Neighborly": "enabled",
+      "01_Core / GroundsGuys": "disabled",
+      "01_Core / MollyMaid": "disabled",
+      "01_Core / Shared": "enabled",
+      "03_Semantic/headless": "disabled",
+      "02_Components/Button": "enabled",
+      "Neighborly/01_Light": "enabled",
+      "MollyMaid/01_Light": "disabled",
+      "Neighborly/02_Dark": "disabled",
+      "GroundsGuys/01_Light": "disabled",
+      "GroundsGuys/02_Dark": "disabled",
+      "MollyMaid/02_Dark": "disabled"
+    },
+    "$figmaStyleReferences": {}
+  },
+  {
+    "id": "9e187a7fc7f8fee79159ba4a19f4b3ecc129ecde",
+    "name": "Neighborly - Dark",
+    "selectedTokenSets": {
+      "01_Core / Neighborly": "enabled",
+      "01_Core / GroundsGuys": "disabled",
+      "01_Core / MollyMaid": "disabled",
+      "01_Core / Shared": "enabled",
+      "03_Semantic/headless": "disabled",
+      "02_Components/Button": "enabled",
+      "Neighborly/01_Light": "enabled",
+      "MollyMaid/01_Light": "disabled",
+      "Neighborly/02_Dark": "enabled",
+      "GroundsGuys/01_Light": "disabled",
+      "GroundsGuys/02_Dark": "disabled",
+      "MollyMaid/02_Dark": "disabled"
+    },
+    "$figmaStyleReferences": {}
+  },
+  {
+    "id": "d9ce199c7fce8f461f581a5197acb88cd8b6e269",
+    "name": "GroundsGuys - Light",
+    "selectedTokenSets": {
+      "01_Core / Shared": "enabled",
+      "01_Core / Neighborly": "enabled",
+      "01_Core / GroundsGuys": "disabled",
+      "01_Core / MollyMaid": "disabled",
+      "02_Components/Button": "enabled",
+      "03_Semantic/headless": "disabled",
+      "Neighborly/01_Light": "disabled",
+      "Neighborly/02_Dark": "disabled",
+      "GroundsGuys/01_Light": "enabled",
+      "GroundsGuys/02_Dark": "disabled",
+      "MollyMaid/01_Light": "disabled",
+      "MollyMaid/02_Dark": "disabled"
+    },
+    "$figmaStyleReferences": {}
+  }
+]

@@ -1,0 +1,36 @@
+{
+  "semantic": {
+    "primary": {
+      "default": {
+        "value": "#e4e30d",
+        "type": "color"
+      }
+    },
+    "cta": {
+      "emphasized": {
+        "value": "{color.blue.300}",
+        "type": "color"
+      },
+      "muted": {
+        "value": "{color.blue.300}",
+        "type": "color"
+      }
+    },
+    "warning": {
+      "default": {
+        "value": "{color.yellow.50}",
+        "type": "color"
+      }
+    },
+    "fg": {
+      "accent": {
+        "value": "#4fbd37",
+        "type": "color"
+      },
+      "on-accent": {
+        "value": "#fff",
+        "type": "color"
+      }
+    }
+  }
+}

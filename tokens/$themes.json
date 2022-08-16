@@ -46,5 +46,21 @@
       "GroundsGuys/01_Light": "disabled"
     },
     "$figmaStyleReferences": {}
+  },
+  {
+    "id": "2ae3d1c4ba1bfe1715b4148a282d026f11a5285b",
+    "name": "Headless (no theme)",
+    "selectedTokenSets": {
+      "01_Core / Shared": "enabled",
+      "01_Core / Neighborly": "disabled",
+      "01_Core / GroundsGuys": "disabled",
+      "01_Core / MollyMaid": "disabled",
+      "02_Components/Button": "disabled",
+      "03_Semantic/headless": "enabled",
+      "Neighborly/01_Light": "disabled",
+      "GroundsGuys/01_Light": "disabled",
+      "MollyMaid/01_Light": "disabled"
+    },
+    "$figmaStyleReferences": {}
   }
 ]

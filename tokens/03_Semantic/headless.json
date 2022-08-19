@@ -138,11 +138,11 @@
     },
     "warning": {
       "fg": {
-        "value": "{color.yellow.400}",
+        "value": "{color.grey.400}",
         "type": "color"
       },
       "emphasised": {
-        "value": "{color.amber.500}",
+        "value": "{color.grey.600}",
         "type": "color"
       },
       "muted": {

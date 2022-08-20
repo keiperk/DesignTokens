@@ -7,16 +7,16 @@
       }
     },
     "cta": {
-      "emphasized": {
-        "value": "{color.blue.300}",
+      "default": {
+        "value": "{color.blue.600}",
         "type": "color"
       },
       "muted": {
         "value": "{color.blue.300}",
         "type": "color"
       },
-      "default": {
-        "value": "{color.blue.700}",
+      "emphasized": {
+        "value": "{color.blue.300}",
         "type": "color"
       }
     },

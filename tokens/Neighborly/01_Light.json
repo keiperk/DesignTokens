@@ -3,12 +3,56 @@
     "neighborly": {
       "primary": {
         "default": {
-          "value": "{semantic.headless.color.cta.default}",
+          "value": "{color.neighborly.blue.500}",
+          "type": "color"
+        },
+        "muted": {
+          "value": "{color.neighborly.blue.400}",
+          "type": "color"
+        }
+      },
+      "cta": {
+        "default": {
+          "value": "{color.neighborly.blue.600}",
+          "type": "color"
+        },
+        "emphasized": {
+          "value": "{color.neighborly.blue.700}",
+          "type": "color"
+        },
+        "muted": {
+          "value": "{color.neighborly.blue.300}",
+          "type": "color"
+        }
+      },
+      "warning": {
+        "default": {
+          "value": "{color.neighborly.yellow.500}",
+          "type": "color"
+        },
+        "emphasized": {
+          "value": "{color.neighborly.yellow.700}",
+          "type": "color"
+        },
+        "muted": {
+          "value": "{color.neighborly.yellow.300}",
+          "type": "color"
+        },
+        "subtle": {
+          "value": "{color.neighborly.yellow.200}",
+          "type": "color"
+        },
+        "disabled": {
+          "value": "{color.neighborly.yellow.100}",
           "type": "color"
         }
       },
       "bg": {
         "surface": {
+          "value": "{color.neighborly.blue.50}",
+          "type": "color"
+        },
+        "default": {
           "value": "{color.neighborly.blue.50}",
           "type": "color"
         }
@@ -25,37 +69,23 @@
         "subtle": {
           "value": "{color.neighborly.blue.300}",
           "type": "color"
+        },
+        "on-accent": {
+          "value": "{color.neighborly.blue.600}",
+          "type": "color"
+        },
+        "on-disabled": {
+          "value": "{color.neighborly.blue.300}",
+          "type": "color"
+        },
+        "accent": {
+          "value": "{color.neighborly.blue.600}",
+          "type": "color"
+        },
+        "disabled": {
+          "value": "{color.neighborly.blue.100}",
+          "type": "color"
         }
-      }
-    },
-    "cta": {
-      "default": {
-        "value": "{color.neighborly.blue.600}",
-        "type": "color"
-      },
-      "emphasized": {
-        "value": "{color.neighborly.blue.700}",
-        "type": "color"
-      },
-      "muted": {
-        "value": "{color.neighborly.blue.300}",
-        "type": "color"
-      }
-    },
-    "warning": {
-      "default": {
-        "value": "{color.neighborly.yellow.400}",
-        "type": "color"
-      }
-    },
-    "fg": {
-      "accent": {
-        "value": "#4fbd37",
-        "type": "color"
-      },
-      "on-accent": {
-        "value": "{color.neighborly.blue.700}",
-        "type": "color"
       }
     }
   }

@@ -47,23 +47,23 @@
       },
       "warning": {
         "default": {
-          "value": "{color.neighborly.yellow.500}",
+          "value": "{shared.color.yellow.400}",
           "type": "color"
         },
         "emphasized": {
-          "value": "{color.neighborly.yellow.700}",
+          "value": "{shared.color.yellow.500}",
           "type": "color"
         },
         "muted": {
-          "value": "{color.neighborly.yellow.300}",
+          "value": "{shared.color.yellow.300}",
           "type": "color"
         },
         "subtle": {
-          "value": "{color.neighborly.yellow.200}",
+          "value": "{shared.color.yellow.100}",
           "type": "color"
         },
         "disabled": {
-          "value": "{color.neighborly.yellow.100}",
+          "value": "{shared.color.yellow.50}",
           "type": "color"
         }
       },

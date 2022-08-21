@@ -1,88 +1,90 @@
 {
   "color": {
-    "blue": {
-      "50": {
-        "value": "#ECF2FA",
-        "type": "color"
+    "neighborly": {
+      "blue": {
+        "50": {
+          "value": "#ECF2FA",
+          "type": "color"
+        },
+        "100": {
+          "value": "#C4D7EE",
+          "type": "color"
+        },
+        "200": {
+          "value": "#A7C4E6",
+          "type": "color"
+        },
+        "300": {
+          "value": "#7FA9DB",
+          "type": "color"
+        },
+        "400": {
+          "value": "#6698D4",
+          "type": "color"
+        },
+        "500": {
+          "value": "#407EC9",
+          "type": "color"
+        },
+        "600": {
+          "value": "#3A73B7",
+          "type": "color"
+        },
+        "700": {
+          "value": "#2D598F",
+          "type": "color"
+        },
+        "800": {
+          "value": "#23456F",
+          "type": "color"
+        },
+        "900": {
+          "value": "#1B3554",
+          "type": "color"
+        }
       },
-      "100": {
-        "value": "#C4D7EE",
-        "type": "color"
-      },
-      "200": {
-        "value": "#A7C4E6",
-        "type": "color"
-      },
-      "300": {
-        "value": "#7FA9DB",
-        "type": "color"
-      },
-      "400": {
-        "value": "#6698D4",
-        "type": "color"
-      },
-      "500": {
-        "value": "#407EC9",
-        "type": "color"
-      },
-      "600": {
-        "value": "#3A73B7",
-        "type": "color"
-      },
-      "700": {
-        "value": "#2D598F",
-        "type": "color"
-      },
-      "800": {
-        "value": "#23456F",
-        "type": "color"
-      },
-      "900": {
-        "value": "#1B3554",
-        "type": "color"
-      }
-    },
-    "yellow": {
-      "50": {
-        "value": "#FFF9EB",
-        "type": "color",
-        "description": "Neighborly Brand Yellow"
-      },
-      "100": {
-        "value": "#FFEEBF",
-        "type": "color"
-      },
-      "200": {
-        "value": "#FFE5A1",
-        "type": "color"
-      },
-      "300": {
-        "value": "#FFD976",
-        "type": "color"
-      },
-      "400": {
-        "value": "#FFD25B",
-        "type": "color"
-      },
-      "500": {
-        "value": "#F5C200",
-        "type": "color"
-      },
-      "600": {
-        "value": "#E8B52E",
-        "type": "color"
-      },
-      "700": {
-        "value": "#B59B00",
-        "type": "color"
-      },
-      "800": {
-        "value": "#8C7800",
-        "type": "color"
-      },
-      "900": {
-        "value": "#675100",
-        "type": "color"
+      "yellow": {
+        "50": {
+          "value": "#FFF9EB",
+          "type": "color",
+          "description": "Neighborly Brand Yellow"
+        },
+        "100": {
+          "value": "#FFEEBF",
+          "type": "color"
+        },
+        "200": {
+          "value": "#FFE5A1",
+          "type": "color"
+        },
+        "300": {
+          "value": "#FFD976",
+          "type": "color"
+        },
+        "400": {
+          "value": "#FFD25B",
+          "type": "color"
+        },
+        "500": {
+          "value": "#F5C200",
+          "type": "color"
+        },
+        "600": {
+          "value": "#E8B52E",
+          "type": "color"
+        },
+        "700": {
+          "value": "#B59B00",
+          "type": "color"
+        },
+        "800": {
+          "value": "#8C7800",
+          "type": "color"
+        },
+        "900": {
+          "value": "#675100",
+          "type": "color"
+        }
       }
     }
   }

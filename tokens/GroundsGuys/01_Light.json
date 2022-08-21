@@ -6,17 +6,17 @@
         "type": "color"
       },
       "emphasized": {
-        "value": "{color.blue.300}",
+        "value": "{color.neighborly.blue.300}",
         "type": "color"
       },
       "muted": {
-        "value": "{color.blue.300}",
+        "value": "{color.neighborly.blue.300}",
         "type": "color"
       }
     },
     "warning": {
       "default": {
-        "value": "{color.yellow.50}",
+        "value": "{color.neighborly.yellow.50}",
         "type": "color"
       }
     }

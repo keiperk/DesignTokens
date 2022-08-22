@@ -3,243 +3,243 @@
     "color": {
       "fg": {
         "default": {
-          "value": "{shared.color.grey.50}",
+          "value": "{color.grey.50}",
           "type": "color"
         },
         "muted": {
-          "value": "{shared.color.grey.100}",
+          "value": "{color.grey.100}",
           "type": "color"
         },
         "subtle": {
-          "value": "{shared.color.grey.200}",
+          "value": "{color.grey.200}",
           "type": "color"
         },
         "on-accent": {
-          "value": "{shared.color.grey.500}",
+          "value": "{color.grey.500}",
           "type": "color"
         },
         "on-disabled": {
-          "value": "{shared.color.grey.300}",
+          "value": "{color.grey.300}",
           "type": "color"
         },
         "accent": {
-          "value": "{shared.color.grey.700}",
+          "value": "{color.grey.700}",
           "type": "color"
         },
         "disabled": {
-          "value": "{shared.color.grey.100}",
+          "value": "{color.grey.100}",
           "type": "color"
         }
       },
       "bg": {
         "surface": {
-          "value": "{shared.color.neutral.white}",
+          "value": "{color.neutral.white}",
           "type": "color"
         },
         "muted": {
-          "value": "{shared.color.grey.100}",
+          "value": "{color.grey.100}",
           "type": "color"
         },
         "subtle": {
-          "value": "{shared.color.grey.50}",
+          "value": "{color.grey.50}",
           "type": "color"
         },
         "canvas": {
-          "value": "{shared.color.neutral.white}",
+          "value": "{color.neutral.white}",
           "type": "color"
         }
       },
       "cta": {
         "default": {
-          "value": "{shared.color.grey.700}",
+          "value": "{color.grey.700}",
           "type": "color"
         },
         "emphasised": {
-          "value": "{shared.color.grey.800}",
+          "value": "{color.grey.800}",
           "type": "color"
         },
         "muted": {
-          "value": "{shared.color.grey.400}",
+          "value": "{color.grey.400}",
           "type": "color"
         },
         "subtle": {
-          "value": "{shared.color.grey.200}",
+          "value": "{color.grey.200}",
           "type": "color"
         }
       },
       "primary": {
         "default": {
-          "value": "{shared.color.grey.600}",
+          "value": "{color.grey.600}",
           "type": "color"
         },
         "emphasised": {
-          "value": "{shared.color.grey.800}",
+          "value": "{color.grey.800}",
           "type": "color"
         },
         "muted": {
-          "value": "{shared.color.grey.400}",
+          "value": "{color.grey.400}",
           "type": "color"
         },
         "subtle": {
-          "value": "{shared.color.grey.300}",
+          "value": "{color.grey.300}",
           "type": "color"
         },
         "disabled": {
-          "value": "{shared.color.grey.100}",
+          "value": "{color.grey.100}",
           "type": "color"
         }
       },
       "secondary": {
         "default": {
-          "value": "{shared.color.grey.600}",
+          "value": "{color.grey.600}",
           "type": "color"
         },
         "emphasized": {
-          "value": "{shared.color.grey.500}",
+          "value": "{color.grey.500}",
           "type": "color"
         },
         "muted": {
-          "value": "{shared.color.grey.300}",
+          "value": "{color.grey.300}",
           "type": "color"
         },
         "subtle": {
-          "value": "{shared.color.grey.100}",
+          "value": "{color.grey.100}",
           "type": "color"
         },
         "disabled": {
-          "value": "{shared.color.grey.400}",
+          "value": "{color.grey.400}",
           "type": "color"
         }
       },
       "success": {
         "default": {
-          "value": "{shared.color.grey.400}",
+          "value": "{color.grey.400}",
           "type": "color"
         },
         "emphasised": {
-          "value": "{shared.color.grey.500}",
+          "value": "{color.grey.500}",
           "type": "color"
         },
         "muted": {
-          "value": "{shared.color.grey.300}",
+          "value": "{color.grey.300}",
           "type": "color"
         },
         "subtle": {
-          "value": "{shared.color.grey.100}",
+          "value": "{color.grey.100}",
           "type": "color"
         },
         "on-success": {
-          "value": "{shared.color.grey.50}",
+          "value": "{color.grey.50}",
           "type": "color"
         }
       },
       "warning": {
         "default": {
-          "value": "{shared.color.grey.300}",
+          "value": "{color.grey.300}",
           "type": "color"
         },
         "emphasised": {
-          "value": "{shared.color.grey.500}",
+          "value": "{color.grey.500}",
           "type": "color"
         },
         "muted": {
-          "value": "{shared.color.grey.200}",
+          "value": "{color.grey.200}",
           "type": "color"
         },
         "subtle": {
-          "value": "{shared.color.grey.100}",
+          "value": "{color.grey.100}",
           "type": "color"
         },
         "on-warning": {
-          "value": "{shared.color.grey.50}",
+          "value": "{color.grey.50}",
           "type": "color"
         }
       },
       "error": {
         "default": {
-          "value": "{shared.color.grey.500}",
+          "value": "{color.grey.500}",
           "type": "color"
         },
         "emphasized": {
-          "value": "{shared.color.grey.700}",
+          "value": "{color.grey.700}",
           "type": "color"
         },
         "muted": {
-          "value": "{shared.color.grey.200}",
+          "value": "{color.grey.200}",
           "type": "color"
         },
         "subtle": {
-          "value": "{shared.color.grey.100}",
+          "value": "{color.grey.100}",
           "type": "color"
         },
         "on-fg": {
-          "value": "{shared.color.grey.50}",
+          "value": "{color.grey.50}",
           "type": "color"
         }
       },
       "info": {
         "default": {
-          "value": "{shared.color.grey.400}",
+          "value": "{color.grey.400}",
           "type": "color"
         },
         "emphasised": {
-          "value": "{shared.color.grey.500}",
+          "value": "{color.grey.500}",
           "type": "color"
         },
         "muted": {
-          "value": "{shared.color.grey.300}",
+          "value": "{color.grey.300}",
           "type": "color"
         },
         "subtle": {
-          "value": "{shared.color.grey.100}",
+          "value": "{color.grey.100}",
           "type": "color"
         },
         "on-fg": {
-          "value": "{shared.color.grey.50}",
+          "value": "{color.grey.50}",
           "type": "color"
         }
       },
       "help": {
         "fg": {
-          "value": "{shared.color.grey.400}",
+          "value": "{color.grey.400}",
           "type": "color"
         },
         "emphasised": {
-          "value": "{shared.color.grey.500}",
+          "value": "{color.grey.500}",
           "type": "color"
         },
         "muted": {
-          "value": "{shared.color.grey.300}",
+          "value": "{color.grey.300}",
           "type": "color"
         },
         "subtle": {
-          "value": "{shared.color.grey.100}",
+          "value": "{color.grey.100}",
           "type": "color"
         },
         "on-success": {
-          "value": "{shared.color.grey.50}",
+          "value": "{color.grey.50}",
           "type": "color"
         }
       },
       "neutral": {
         "fg": {
-          "value": "{shared.color.grey.50}",
+          "value": "{color.grey.50}",
           "type": "color"
         },
         "emphasised": {
-          "value": "{shared.color.grey.300}",
+          "value": "{color.grey.300}",
           "type": "color"
         },
         "muted": {
-          "value": "{shared.color.grey.300}",
+          "value": "{color.grey.300}",
           "type": "color"
         },
         "subtle": {
-          "value": "{shared.color.grey.100}",
+          "value": "{color.grey.100}",
           "type": "color"
         },
         "on-success": {
-          "value": "{shared.color.grey.400}",
+          "value": "{color.grey.400}",
           "type": "color"
         }
       }

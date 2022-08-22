@@ -117,67 +117,67 @@
       },
       "success": {
         "default": {
-          "value": "{shared.color.green.600}",
+          "value": "{color.green.600}",
           "type": "color"
         },
         "emphasized": {
-          "value": "{shared.color.green.700}",
+          "value": "{color.green.700}",
           "type": "color"
         },
         "muted": {
-          "value": "{shared.color.green.400}",
+          "value": "{color.green.400}",
           "type": "color"
         },
         "subtle": {
-          "value": "{shared.color.green.200}",
+          "value": "{color.green.200}",
           "type": "color"
         },
         "on-fg": {
-          "value": "{shared.color.green.50}",
+          "value": "{color.green.50}",
           "type": "color"
         }
       },
       "warning": {
         "default": {
-          "value": "{shared.color.yellow.400}",
+          "value": "{color.yellow.400}",
           "type": "color"
         },
         "emphasized": {
-          "value": "{shared.color.yellow.500}",
+          "value": "{color.yellow.500}",
           "type": "color"
         },
         "muted": {
-          "value": "{shared.color.yellow.300}",
+          "value": "{color.yellow.300}",
           "type": "color"
         },
         "subtle": {
-          "value": "{shared.color.yellow.100}",
+          "value": "{color.yellow.100}",
           "type": "color"
         },
         "disabled": {
-          "value": "{shared.color.yellow.50}",
+          "value": "{color.yellow.50}",
           "type": "color"
         }
       },
       "error": {
         "default": {
-          "value": "{shared.color.red.600}",
+          "value": "{color.red.600}",
           "type": "color"
         },
         "emphasized": {
-          "value": "{shared.color.red.700}",
+          "value": "{color.red.700}",
           "type": "color"
         },
         "muted": {
-          "value": "{shared.color.red.300}",
+          "value": "{color.red.300}",
           "type": "color"
         },
         "subtle": {
-          "value": "{shared.color.red.100}",
+          "value": "{color.red.100}",
           "type": "color"
         },
         "on-fg": {
-          "value": "{shared.color.red.50}",
+          "value": "{color.red.50}",
           "type": "color"
         }
       },

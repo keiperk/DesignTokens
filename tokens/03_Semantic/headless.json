@@ -285,6 +285,20 @@
             "value": "#fff800",
             "type": "color"
           }
+        },
+        "default": {
+          "background-color": {
+            "value": "{semantic.color.cta.default}",
+            "type": "color"
+          },
+          "border-color": {
+            "value": "{semantic.color.cta.default}",
+            "type": "color"
+          },
+          "text-color": {
+            "value": "{semantic.color.fg.on-accent}",
+            "type": "color"
+          }
         }
       },
       "border-radius": {

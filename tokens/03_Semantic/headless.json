@@ -49,28 +49,6 @@
           "type": "color"
         }
       },
-      "neutral": {
-        "fg": {
-          "value": "{shared.color.grey.50}",
-          "type": "color"
-        },
-        "emphasised": {
-          "value": "{shared.color.grey.300}",
-          "type": "color"
-        },
-        "muted": {
-          "value": "{shared.color.grey.300}",
-          "type": "color"
-        },
-        "subtle": {
-          "value": "{shared.color.grey.100}",
-          "type": "color"
-        },
-        "on-success": {
-          "value": "{shared.color.grey.400}",
-          "type": "color"
-        }
-      },
       "cta": {
         "default": {
           "value": "{shared.color.grey.700}",
@@ -130,6 +108,28 @@
         },
         "disabled": {
           "value": "{shared.color.grey.400}",
+          "type": "color"
+        }
+      },
+      "success": {
+        "default": {
+          "value": "{shared.color.grey.400}",
+          "type": "color"
+        },
+        "emphasised": {
+          "value": "{shared.color.grey.500}",
+          "type": "color"
+        },
+        "muted": {
+          "value": "{shared.color.grey.300}",
+          "type": "color"
+        },
+        "subtle": {
+          "value": "{shared.color.grey.100}",
+          "type": "color"
+        },
+        "on-success": {
+          "value": "{shared.color.grey.50}",
           "type": "color"
         }
       },
@@ -199,8 +199,8 @@
           "type": "color"
         }
       },
-      "success": {
-        "default": {
+      "help": {
+        "fg": {
           "value": "{shared.color.grey.400}",
           "type": "color"
         },
@@ -221,13 +221,13 @@
           "type": "color"
         }
       },
-      "help": {
+      "neutral": {
         "fg": {
-          "value": "{shared.color.grey.400}",
+          "value": "{shared.color.grey.50}",
           "type": "color"
         },
         "emphasised": {
-          "value": "{shared.color.grey.500}",
+          "value": "{shared.color.grey.300}",
           "type": "color"
         },
         "muted": {
@@ -239,7 +239,7 @@
           "type": "color"
         },
         "on-success": {
-          "value": "{shared.color.grey.50}",
+          "value": "{shared.color.grey.400}",
           "type": "color"
         }
       }

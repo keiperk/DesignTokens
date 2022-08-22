@@ -2,12 +2,12 @@
   "semantic": {
     "color": {
       "fg": {
-        "surface": {
-          "value": "{color.neutral.white}",
+        "default": {
+          "value": "{color.grey.900}",
           "type": "color"
         },
         "muted": {
-          "value": "{color.mollymaid.pink.100}",
+          "value": "{color.grey.400}",
           "type": "color"
         },
         "subtle": {
@@ -15,7 +15,7 @@
           "type": "color"
         },
         "on-accent": {
-          "value": "{color.mollymaid.pink.500}",
+          "value": "{color.neutral.white}",
           "type": "color"
         },
         "on-disabled": {

@@ -3,11 +3,11 @@
     "color": {
       "fg": {
         "default": {
-          "value": "{color.grey.50}",
+          "value": "{color.grey.900}",
           "type": "color"
         },
         "muted": {
-          "value": "{color.grey.100}",
+          "value": "{color.grey.400}",
           "type": "color"
         },
         "subtle": {
@@ -15,7 +15,7 @@
           "type": "color"
         },
         "on-accent": {
-          "value": "{color.grey.500}",
+          "value": "{color.neutral.white}",
           "type": "color"
         },
         "on-disabled": {

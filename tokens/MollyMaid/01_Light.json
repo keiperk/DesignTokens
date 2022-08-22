@@ -55,11 +55,11 @@
       },
       "cta": {
         "default": {
-          "value": "{color.mollymaid.pink.500}",
+          "value": "{color.mollymaid.pink.700}",
           "type": "color"
         },
         "emphasized": {
-          "value": "{color.mollymaid.pink.700}",
+          "value": "{color.mollymaid.pink.800}",
           "type": "color"
         },
         "muted": {

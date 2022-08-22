@@ -1,6 +1,5 @@
 {
   "semantic": {
-    "mollymaid": {
       "fg": {
         "surface": {
           "value": "{color.neutral.white}",
@@ -205,4 +204,3 @@
       }
     }
   }
-}

@@ -58,7 +58,7 @@
           "value": "{color.grey.700}",
           "type": "color"
         },
-        "emphasised": {
+        "emphasized": {
           "value": "{color.grey.800}",
           "type": "color"
         },

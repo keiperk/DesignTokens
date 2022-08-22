@@ -47,6 +47,10 @@
         "canvas": {
           "value": "{color.neutral.white}",
           "type": "color"
+        },
+        "accent": {
+          "value": "{color.mollymaid.darkblue.700}",
+          "type": "color"
         }
       },
       "cta": {

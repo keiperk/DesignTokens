@@ -47,6 +47,10 @@
         "canvas": {
           "value": "{color.neutral.white}",
           "type": "color"
+        },
+        "accent": {
+          "value": "{color.grey.600}",
+          "type": "color"
         }
       },
       "cta": {

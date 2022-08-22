@@ -1,23 +1,81 @@
 {
   "semantic": {
-    "cta": {
-      "default": {
-        "value": "{color.pink.900}",
-        "type": "color"
+    "mollymaid": {
+      "cta": {
+        "default": {
+          "value": "{color.mollymaid.pink.500}",
+          "type": "color"
+        },
+        "emphasized": {
+          "value": "{color.mollymaid.pink.700}",
+          "type": "color"
+        },
+        "muted": {
+          "value": "{color.mollymaid.pink.300}",
+          "type": "color"
+        },
+        "subtle": {
+          "value": "{color.mollymaid.pink.200}",
+          "type": "color"
+        },
+        "disabled": {
+          "value": "{color.mollymaid.pink.100}",
+          "type": "color"
+        }
       },
-      "emphasized": {
-        "value": "{color.neighborly.blue.300}",
-        "type": "color"
+      "warning": {
+        "default": {
+          "value": "{color.neighborly.yellow.50}",
+          "type": "color"
+        }
       },
-      "muted": {
-        "value": "{color.neighborly.blue.300}",
-        "type": "color"
-      }
-    },
-    "warning": {
-      "default": {
-        "value": "{color.neighborly.yellow.50}",
-        "type": "color"
+      "fg": {
+        "surface": {
+          "value": "{shared.color.neutral.white}",
+          "type": "color"
+        },
+        "muted": {
+          "value": "{color.mollymaid.pink.100}",
+          "type": "color"
+        },
+        "subtle": {
+          "value": "{color.mollymaid.pink.200}",
+          "type": "color"
+        },
+        "on-accent": {
+          "value": "{color.mollymaid.pink.500}",
+          "type": "color"
+        },
+        "on-disabled": {
+          "value": "{color.mollymaid.pink.400}",
+          "type": "color"
+        },
+        "accent": {
+          "value": "{color.mollymaid.pink.600}",
+          "type": "color"
+        },
+        "disabled": {
+          "value": "{color.mollymaid.pink.100}",
+          "type": "color"
+        }
+      },
+      "bg": {
+        "default": {
+          "value": "{color.mollymaid.pink.50}",
+          "type": "color"
+        },
+        "subtle": {
+          "value": "{color.mollymaid.pink.100}",
+          "type": "color"
+        },
+        "muted": {
+          "value": "{color.mollymaid.pink.300}",
+          "type": "color"
+        },
+        "canvas": {
+          "value": "{shared.color.neutral.white}",
+          "type": "color"
+        }
       }
     }
   }

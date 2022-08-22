@@ -1,5 +1,6 @@
 {
   "semantic": {
+    "color": {
       "fg": {
         "surface": {
           "value": "{color.neutral.white}",
@@ -204,3 +205,4 @@
       }
     }
   }
+}

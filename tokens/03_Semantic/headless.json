@@ -308,6 +308,26 @@
       "border-width": {
         "value": "1",
         "type": "borderWidth"
+      },
+      "primary": {
+        "default": {
+          "background-color": {
+            "value": "{semantic.color.secondary.default}",
+            "type": "color"
+          },
+          "border-color": {
+            "value": "{semantic.color.secondary.default}",
+            "type": "color"
+          },
+          "text-color": {
+            "value": "{color.neutral.black}",
+            "type": "color"
+          },
+          "icon-color": {
+            "value": "{color.neutral.black}",
+            "type": "color"
+          }
+        }
       }
     }
   }

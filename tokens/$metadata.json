@@ -6,8 +6,11 @@
     "01_Core / MollyMaid",
     "02_Components/Button",
     "03_Semantic/headless",
+    "03_Semantic/content",
     "Neighborly/01_Light",
+    "Neighborly/content",
     "GroundsGuys/01_Light",
-    "MollyMaid/01_Light"
+    "MollyMaid/01_Light",
+    "MollyMaid/content"
   ]
 }

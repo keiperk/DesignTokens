@@ -333,7 +333,7 @@
   },
   "fontFamilies": {
     "primary": {
-      "value": "Inter",
+      "value": "IBM Plex Serif",
       "type": "fontFamilies"
     }
   },
@@ -401,7 +401,7 @@
       "type": "fontWeights"
     },
     "semiBold": {
-      "value": "Semi Bold",
+      "value": "SemiBold",
       "type": "fontWeights"
     },
     "bold": {
@@ -417,7 +417,7 @@
       "type": "fontWeights"
     },
     "semiBoldItalic": {
-      "value": "Semi Bold Italic",
+      "value": "SemiBold Italic",
       "type": "fontWeights"
     },
     "boldItalic": {

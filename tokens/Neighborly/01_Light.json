@@ -208,5 +208,45 @@
         }
       }
     }
+  },
+  "fontFamilies": {
+    "primary": {
+      "value": "Inter",
+      "type": "fontFamilies"
+    }
+  },
+  "fontWeights": {
+    "regular": {
+      "value": "Regular",
+      "type": "fontWeights"
+    },
+    "medium": {
+      "value": "Medium",
+      "type": "fontWeights"
+    },
+    "semiBold": {
+      "value": "Semi Bold",
+      "type": "fontWeights"
+    },
+    "bold": {
+      "value": "Bold",
+      "type": "fontWeights"
+    },
+    "mediumItalic": {
+      "value": "Medium Italic",
+      "type": "fontWeights"
+    },
+    "italic": {
+      "value": "Italic",
+      "type": "fontWeights"
+    },
+    "semiBoldItalic": {
+      "value": "Semi Bold Italic",
+      "type": "fontWeights"
+    },
+    "boldItalic": {
+      "value": "Bold Italic",
+      "type": "fontWeights"
+    }
   }
 }

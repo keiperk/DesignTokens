@@ -55,7 +55,7 @@
       },
       "cta": {
         "default": {
-          "value": "{color.grey.700}",
+          "value": "{color.grey.800}",
           "type": "color"
         },
         "emphasized": {

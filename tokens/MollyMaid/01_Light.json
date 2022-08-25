@@ -99,7 +99,7 @@
       },
       "secondary": {
         "default": {
-          "value": "{color.mollymaid.darkblue.700}",
+          "value": "{color.mollymaid.pink.700}",
           "type": "color"
         },
         "emphasized": {

@@ -95,7 +95,7 @@
       },
       "secondary": {
         "default": {
-          "value": "{color.grey.600}",
+          "value": "{color.grey.800}",
           "type": "color"
         },
         "emphasized": {
@@ -320,7 +320,7 @@
             "type": "color"
           },
           "text-color": {
-            "value": "{color.neutral.black}",
+            "value": "{color.neutral.white}",
             "type": "color"
           },
           "icon-color": {
